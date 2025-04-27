@@ -31,12 +31,6 @@ It performs basic arithmetic operations and supports both **mouse click** and **
 
 ---
 
-## 📸 Preview
-![Calculator Screenshot](#)  
-_(Add a screenshot here later if you want)_
-
----
-
 ## 📚 Future Improvements
 - Add scientific calculator features (square root, percentage, etc.)
 - Improve mobile responsiveness
